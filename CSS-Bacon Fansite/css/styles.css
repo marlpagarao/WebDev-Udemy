@@ -1,0 +1,20 @@
+body{
+    background-color: #eeebdd;
+}
+
+h1{
+    font-family: "Monaco", monospace;
+    font-size: 150px;
+}
+
+.bacon{
+    background-color:aqua;
+}
+
+.bacon:hover{
+    background-color:brown;
+}
+
+.circular{
+    border-radius: 100%;
+}

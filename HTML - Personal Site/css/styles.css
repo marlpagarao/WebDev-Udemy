@@ -1,0 +1,22 @@
+hr{
+    background-color: #d8e3e7;
+    border-style: dotted;
+    border-bottom-style: none;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+
+body {
+    background-color: #d8e3e7;
+}
+
+h1, h3{
+    color: #126e82;
+    font-family: "Monaco",monospace;
+}
+
+
+h1{
+    
+}
